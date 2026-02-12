@@ -1,5 +1,6 @@
 # Translation-Task-Akkadian-to-English
-This is a kaggle competition: https://www.kaggle.com/competitions/deep-past-initiative-machine-translation
+This is a kaggle competition: https://www.kaggle.com/competitions/deep-past-initiative-machine-translation.
+
 A translation system for Old Assyrian: decode the everyday business records of ancient Assyrian merchants, using 8,000 cuneiform texts.
 
 Four thousand years ago, Assyrian merchants left behind one of the world’s richest archives of everyday and commercial life. Tens of thousands of clay tablets record debts settled, caravans dispatched, and discuss day-to-day family matters. This woule be one of the largest untranslated archive of the ancient world. 
